@@ -1,3 +1,4 @@
+//因为音乐文件过大无法上传，可在.cpp文件同地址中建立res文件夹并将音乐放入其中，并修改音乐文件名
 #include<stdio.h>
 #include<graphics.h>
 #include<conio.h>
